@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoElytra:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoElytra_jar</output-path>
+    <root id="archive" name="NoElytra.jar">
+      <element id="module-output" name="NoElytra" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-api-1.18.1-R0.1-20211210.132813-1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
