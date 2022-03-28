@@ -1,0 +1,6 @@
+name: NoElytra
+version: 1.0
+author: ShDis
+main: com.gmail.theshdis.noelytra.NoElytra
+api-version: 1.18
+description: First experimental plugin with some code from https://github.com/StarFluxGames/118Elytra
